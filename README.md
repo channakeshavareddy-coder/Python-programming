@@ -15,8 +15,8 @@ Python/
 │      ├── OutputOperation.py
 │      └── Comments.py
 │
-├── Variables/
-│      ├── Initialisation.py
+├── Initialisation/
+│      ├── assignment.py
 │      ├── idFunction.py
 │      ├── Reassignment.py
 │      └── hexFunction.py
