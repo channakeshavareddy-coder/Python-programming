@@ -21,13 +21,32 @@ Python/
 │      ├── Reassignment.py
 │      └── hexFunction.py
 │
-├── DataTypes/
-│      ├── StudentInfo.py
-│      └── EmployeeDetails.py
+├── List/
+│      ├── DiffrentTypesOfValuesInList.py
+│      ├── KeywordLiteralsInList.py
+│      ├── list.py
+│      ├── ListWithIndex.py
+│      ├── ModifyingListElement.py
+│      ├── DuplicateValuesInList.py
+│      |
+│      └────────── Built in List Methods/  
+|                      |
+│                      ├── appendMethod.py
+│                      ├── clearMethod.py
+│                      ├── copyMethod.py
+│                      ├── countMethod.py
+│                      ├── extendMethod.py
+│                      ├── indexMethod.py
+│                      ├── insertMethod.py
+│                      ├── popMethod.py
+│                      ├── removeMethod.py
+│                      ├── reverseMethod.py
+│                      └── sortMethod.py
 │
-├── TypeCasting/
-│      ├── WideningCasting.py
-│      └── NarrowingCasting.py
+│
+├── Tuple/
+│      ├── .py
+│      └── .py
 │
 ├── Operators/
 │      ├── ArithmeticOperators.py
