@@ -45,19 +45,35 @@ Python/
 │
 │
 ├── Tuple/
-│      ├── .py
-│      └── .py
+│      ├── tuple.py
+│      ├── countMethod.py
+│      ├── indexMethod.py
+│      ├── singleElementTuple.py
+│      └── emptyTuple.py
 │
-├── Operators/
-│      ├── ArithmeticOperators.py
-│      ├── AssignmentOperators.py
-│      ├── RelationalOperators.py
-│      ├── LogicalAnd.py
-│      ├── LogicalOr.py
-│      ├── LogicalNot.py
-│      └── TernaryOperator.py
-│
-├── Selection Statements/
+├── Set/
+│      ├── set.py
+│      |
+│      └────────── Built in set Methods/  
+|      |                |
+│      |                ├── popMethod.py
+│      |                ├── removeMethod.py
+│      |                ├── addMethod.py
+│      |                ├── updateMethod.py
+│      |                ├── DiscarMethod.py
+│      |                ├── clearMethod.py
+│      |                └── copyMethod.py
+│      |
+│      └────────── Set Operations/
+|                       |
+│                       ├── Union.py
+│                       ├── Intersection.py
+│                       ├── difference.py
+│                       ├── Symmetric_difference.py
+│                       ├── issubset.py
+│                       ├── issuperset.py
+│                       └── isdisjoint.py
+├── Dictionary/
 │      └──
 │
 ├── .gitignore
