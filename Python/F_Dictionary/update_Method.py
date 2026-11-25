@@ -8,3 +8,5 @@ dictionary["Marks"]=100
 print(dictionary)
 dictionary.update({"place":"BTM"})
 print(dictionary)
+dictionary.popitem()
+print(dictionary)
