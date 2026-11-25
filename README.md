@@ -94,6 +94,8 @@ Python/
 │                       └── update_Method.py
 |
 │
+├── String/
+│      ├── String.py
 │
 ├── .gitignore
 └── README.md
