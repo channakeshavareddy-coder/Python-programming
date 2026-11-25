@@ -1,4 +1,4 @@
 set = {1,2,5,7,8,}
-print(set)
+print("Original set: ",set)
 set.clear()
-print(set)
+print("Cleared set: ",set)
