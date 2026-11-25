@@ -74,7 +74,23 @@ Python/
 │                       ├── issuperset.py
 │                       └── isdisjoint.py
 ├── Dictionary/
-│      └──
+│      ├── EmptyDictionary.py
+│      ├── addDictionary.py
+│      └────────── Built in Dictionary Methods/  
+|                       |
+│                       ├── pop_Method.py
+│                       ├── popItem_Method.py
+│                       ├── getMethod.py
+│                       ├── keysAndValuesMethod.py
+│                       ├── items_Method.py
+│                       ├── length_Dict.py
+│                       ├── copyMethod.py
+│                       ├── clearMethod.py
+│                       ├── setdefault_Method.py
+│                       ├── DuplicateKeys.py
+│                       └── update_Method.py
+|
+│
 │
 ├── .gitignore
 └── README.md
