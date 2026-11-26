@@ -1,4 +1,4 @@
-name = "Channa Keshava Reddy G N"
+name = "ChanNA KesHAVA Reddy g N"
 print(name)
 print("--------------->>>")
 after_swap = name.swapcase()
