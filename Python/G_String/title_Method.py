@@ -1,5 +1,5 @@
-name = "channa keshava reddy"
+name = "channa keHAVA reddy"
 print(name)
 print("--------------------->>>")
-title = name.title()
-print(title)
+new_string = name.title()
+print(new_string)
