@@ -68,8 +68,11 @@ Python/
 |                       |
 │                       ├── Union.py
 │                       ├── Intersection.py
+│                       ├── Intersection_update.py
 │                       ├── difference.py
+│                       ├── difference_update.py
 │                       ├── Symmetric_difference.py
+│                       ├── Symmetric_difference_update.py
 │                       ├── issubset.py
 │                       ├── issuperset.py
 │                       └── isdisjoint.py
@@ -91,6 +94,8 @@ Python/
 │                       └── update_Method.py
 |
 │
+├── String/
+│      ├── String.py
 │
 ├── .gitignore
 └── README.md
