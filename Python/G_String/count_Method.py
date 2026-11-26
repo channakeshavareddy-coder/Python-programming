@@ -1,2 +1,2 @@
 name = "banana"
-print(name.count("a"))
+print(name.count("z"))
