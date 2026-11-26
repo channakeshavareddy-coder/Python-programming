@@ -3,8 +3,7 @@ dictionary = {
     "age": 22,
     "sub": "Python"
 }
-
 print(dictionary)
-
-dictionary.setdefault("place","BTM")
+new = dictionary.setdefault('place','BTM')
+print(new)
 print(dictionary)
