@@ -1,4 +1,4 @@
-var = "I Love Python"
+var = "ILoveLovePython"
 new_var = var.partition('Love')
 print(new_var)
 
